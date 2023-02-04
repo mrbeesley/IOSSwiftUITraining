@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Pizza",
+        "cuisine":"Italian"
+    },
+    {
+        "name": "Spaghetti",
+        "cuisine": "Italian"
+    },
+    {
+        "name": "Crepe",
+        "cuisine": "French"
+    },
+    {
+        "name": "Cheeseburger in Paradise",
+        "cuisine": "American"
+    },
+    {
+        "name": "Sushi",
+        "cuisine": "Japanese"
+    }
+]
